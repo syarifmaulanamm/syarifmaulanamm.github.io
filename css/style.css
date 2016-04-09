@@ -1,0 +1,32 @@
+body{
+	background-image:url(bg.jpg);
+	background-size: 1365px 768px;
+	font-family:Raleway,Open Sans,Droid Sans,arial,sans-serif;
+}
+.bio{
+	color: #ffffff;
+	width:600px;
+	height:200px;
+	position:absolute;
+	top:20%;
+	left:0;
+	right:0;
+	margin:auto;
+	text-align:center;
+}
+h1,h2{
+	font-weight:100;
+}
+h2{
+	font-size:15px;
+}
+.social-links{margin-top:50px;}
+a{
+	background-color: #ee174a;
+	padding: 5px 10px;
+	border-radius: 5px;
+	color:#ffffff;
+	text-decoration:none;
+}
+a:hover{background-color: #de0d3f}
+.fa{margin:0 10px;}
