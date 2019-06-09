@@ -1,6 +1,6 @@
 body{
-	background-image:url(http://syarifmaulanamm.github.io/images/bg.jpg);
-	background-size: cover;
+
+background-color : #00172D;
 	font-family:Raleway,Open Sans,Droid Sans,arial,sans-serif;
 }
 .bio{
@@ -30,9 +30,3 @@ a{
 }
 a:hover{background-color: #de0d3f}
 .fa{margin:0 10px;}
-
-@media only screen and (min-width: 400px) {
-  body { 
-    background-color : #00172D;
-  }
-}
